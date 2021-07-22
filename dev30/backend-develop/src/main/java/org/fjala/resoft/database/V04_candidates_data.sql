@@ -1,0 +1,2 @@
+INSERT INTO `resoftdb`.`candidate` (`id`, `autodidact`, `birthdate`, `career`, `cellphone`, `document_type`, `document_value`, `created_at`, `city`, `email`, `extended`, `first_name`, `full_name`, `last_name`, `semester`, `university`, `work_experience`, `program_id`, `status`)
+VALUES (1, 0, '2020-01-01', 'Sistemas', '77777777', 'IDENTITY_CARD', '6549872 CBA', '2021-01-22 15:29:01.249960', 'COCHABAMBA', 'doms1369@gmail.com', 0, 'Diego', 'Diego Orlando Mejia Salazar', 'Mejia', 9, 'Catolica', 0, 1, 'ACTIVE');

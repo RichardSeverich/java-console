@@ -1,0 +1,8 @@
+.messageContainer {
+    display: flex;
+    justify-content: center;
+    background-color: var(--color-background-hue1);
+    color: var(--color-background);
+    padding: .5em;
+    border-radius: .5em;
+}

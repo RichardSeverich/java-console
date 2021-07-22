@@ -1,0 +1,43 @@
+.container {
+  padding: 1em 0;
+}
+
+h3 {
+  padding: 0 1em;
+  margin: 0;
+}
+
+.dates {
+  display: flex;
+}
+
+h5 {
+  margin: 0;
+  padding:  0.2em;
+  font-weight: lighter;
+}
+
+.date {
+  margin: 1em;
+}
+
+.checkbox {
+  padding: 0 1em;
+}
+
+.editText {
+  padding: 1em;
+}
+
+.editTextFile {
+  width: 100%;
+}
+
+.button {
+  padding: 0 1em;
+}
+
+.buttonSave {
+  padding-top: .3em 0;
+  background-color: var(--color-selected);
+}

@@ -1,0 +1,45 @@
+.sideBar {
+  height: 100%;
+  width: 15em;
+  display: flex;
+  flex-flow: column;
+  margin-top: 2em;
+  margin-left: -5.4em;
+  font-size: var(--font-size-s);
+}
+
+.searchBox {
+  margin-top: 1em;
+  padding: 8em;
+  font-size: 1em;
+  width: 13em;
+}
+
+.searchResults {
+list-style: none;
+overflow: auto;
+max-height: 36em;
+width: 13em;
+padding: 0;
+text-align: center;
+}
+
+.result {
+padding: .5em .3em;
+border: .1em solid var(--color-background-hue2);
+border-radius: 1em;
+margin-bottom: .3em;
+margin-right: 1em;
+transition: all ease 0.2s;
+}
+
+.result:hover {
+background-color: var(--color-background-hue2);
+color: black;
+cursor: pointer;
+}
+
+.result:active {
+background-color: var(--color-background-hue2);
+color: white;
+}

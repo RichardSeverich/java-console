@@ -1,0 +1,27 @@
+.wrapper {
+  margin: .3em auto;
+  width: 3em;
+  height: 3em;
+  border: solid .1em var(--color-primary-variant);
+  cursor: pointer;
+  outline: none;
+}
+
+.name {
+  font-size: var(--font-size-l);
+  margin: 0 auto;
+  text-align: center;
+  user-select: none;
+}
+
+.number {
+  font-size: var(--font-size-s);
+  margin: 0 auto;
+  text-align: center;
+  user-select: none;
+}
+
+.selected {
+  color: white;
+  background-color: var(--color-selected);
+}

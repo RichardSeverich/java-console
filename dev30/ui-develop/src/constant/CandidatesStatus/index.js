@@ -1,0 +1,5 @@
+export const CANDIDATE_DISMISSED = 'DISMISSED';
+
+export const CANDIDATE_LICENSED = 'LICENSED';
+
+export const CANDIDATE_ACTIVE = 'ACTIVE';

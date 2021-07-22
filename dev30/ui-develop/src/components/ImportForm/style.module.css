@@ -1,0 +1,82 @@
+.container {
+  height: auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+.border {
+  width: 40em;
+  border: 0;
+  display: flex;
+  align-items: center;
+  flex-flow: column;
+  flex-direction: column;
+  padding: .3em;
+}
+
+.form {
+  width: 80%;
+  align-items: center;
+  display: flex;
+  flex-flow: column;
+  flex-direction: column;
+}
+
+.rowImport {
+  width: 100%;
+  margin: .5em;
+  text-align: center;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.inputUpload {
+  width: 100%;
+  padding: 1em;
+  border: 1px solid #6c5ce7;
+}
+
+.inputUpload[type=file]::-webkit-file-upload-button {
+  display: none;
+}
+
+.buttonImport[type=button] {
+  background: #575c78;
+  color: white;
+  padding: .6em 1em;
+  text-transform: capitalize;
+}
+
+.buttonImport[type=button]:disabled {
+  background: var(--color-background-hue3);
+  color: white;
+  padding: .6em 1em;
+  text-transform: capitalize;
+}
+
+
+.buttonImport[type=button]:hover {
+  background: #666b83;
+}
+
+.confirmationMessage {
+  display: flex;
+  flex-direction: column;
+  margin-left: 3em;
+  align-self: end;
+}
+
+.warningMessage {
+  display: flex;
+  margin-left: 2.4em;
+  align-self: end;
+}
+
+.saved {
+  color: green;
+}
+
+.rejected {
+  color: red;
+}

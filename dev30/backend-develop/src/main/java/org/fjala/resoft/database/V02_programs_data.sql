@@ -1,0 +1,9 @@
+INSERT INTO `resoftdb`.`program` (`id`, `created_at`, `description`, `name`, `program_order`, `program_type`) VALUES ('1', '2018-11-23 00:00:00.000000', 'programa de desarrollo DEVINT30', 'DEV-30', '30', 'DEV');
+INSERT INTO `resoftdb`.`program` (`id`, `created_at`, `description`, `name`, `program_order`, `program_type`) VALUES ('2', '2018-11-23 00:00:00.000000', 'programa de desarrollo DEVINT31', 'DEV-31', '31', 'DEV');
+INSERT INTO `resoftdb`.`program` (`id`, `created_at`, `description`, `name`, `program_order`, `program_type`) VALUES ('3', '2018-11-23 00:00:00.000000', 'programa de desarrollo DEVINT32', 'DEV-32', '32', 'DEV');
+INSERT INTO `resoftdb`.`program` (`id`, `created_at`, `description`, `name`, `program_order`, `program_type`) VALUES ('4', '2018-11-23 00:00:00.000000', 'programa de testing manual MT 12', 'MT-12', '12', 'MT');
+INSERT INTO `resoftdb`.`program` (`id`, `created_at`, `description`, `name`, `program_order`, `program_type`) VALUES ('5', '2018-11-23 00:00:00.000000', 'programa de testing manual MT 13', 'MT-13', '13', 'MT');
+INSERT INTO `resoftdb`.`program` (`id`, `created_at`, `description`, `name`, `program_order`, `program_type`) VALUES ('6', '2018-11-23 00:00:00.000000', 'programa de testing manual MT 14', 'MT-14', '14', 'MT');
+INSERT INTO `resoftdb`.`program` (`id`, `created_at`, `description`, `name`, `program_order`, `program_type`) VALUES ('7', '2018-11-23 00:00:00.000000', 'programa de testing manual MT 15', 'MT-15', '15', 'MT');
+INSERT INTO `resoftdb`.`program` (`id`, `created_at`, `description`, `name`, `program_order`, `program_type`) VALUES ('8', '2018-11-23 00:00:00.000000', 'programa de automation testing AT 01', 'AT-01', '1', 'AT');
+INSERT INTO `resoftdb`.`program` (`id`, `created_at`, `description`, `name`, `program_order`, `program_type`) VALUES ('9', '2018-11-23 00:00:00.000000', 'programa de automation testing AT 02', 'AT-02', '2', 'AT');

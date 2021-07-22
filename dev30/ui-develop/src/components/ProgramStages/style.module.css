@@ -1,0 +1,22 @@
+.programTitle {
+    display: flex;
+    padding-top: 1em;
+}
+
+.programDatesTitle {
+    display: flex;
+    padding-left: .5em;
+    flex-direction: column;
+}
+
+.stageInput {
+    width: 100%
+}
+
+.stageInputCell {
+    width: 25em;
+}
+
+.order {
+    padding-bottom: 1em;
+}

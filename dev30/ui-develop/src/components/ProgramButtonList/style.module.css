@@ -1,0 +1,8 @@
+.sideBar {
+  height: 100%;
+  width: 5em; 
+  border-right: solid 1px var(--color-border); 
+  display: flex;
+  flex-flow: column;
+  margin-left: -5em;
+}

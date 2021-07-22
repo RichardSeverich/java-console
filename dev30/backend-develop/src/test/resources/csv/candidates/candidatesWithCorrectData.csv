@@ -1,0 +1,34 @@
+Program,First Name,Last Name,Full Name,City,Birthdate,Email,Document type,Document value,Cellphone,University,Career,Semester,Work Experience,Autodidact,Extended,Status
+DEV-30,Luis Alfredo,Conde Vela,Luis Alfredo Conde Vela,Cochabamba,01/10/1992,luisconde@gmail.com,Identity card,6452871 CBA,78855471,UMSS,Ing Sistemas,final project,No,Yes,No,Active
+DEV-30,Richard,Guitierrez,Richard Guitierrez,La paz,06/23/1995,richard.guitierrez@gmail.com,Identity card,9854322 CBA,65612548,UMSA,Ing Sistemas,final project,Yes,Yes,No,Active
+DEV-30,Cristal,Flores,Cristal Flores,santa cruz,08/19/1990,cristal.flores@gmail.com,Identity card,1254935 CBA,73752128,UGRM,Ing Sistemas,final project,Yes,Yes,No,Active
+DEV-30,Daniel,Lopez,Daniel Lopez,cochabamba,08/19/1990,danie.lopez@gmail.com,Identity card,1254936 CBA,73752121,UMSS,Ing Sistemas,final project,Yes,Yes,No,Active
+DEV-30,Diego,Mejia,Diego Mejia,cochabamba,08/19/1990,diego.mejia@gmail.com,Identity card,1254937 CBA,73752122,UMSS,Ing Sistemas,final project,Yes,Yes,No,Active
+DEV-30,Denis,Padilla,Danis Padilla,cochabamba,08/19/1990,denis.padilla@gmail.com,Identity card,1254938 CBA,73752123,UMSS,Ing Sistemas,final project,Yes,Yes,No,Active
+DEV-30,Jossy,Flores,JossyFlores,cochabamba,08/19/1990,jossy.flores@gmail.com,Identity card,1254939 CBA,73752124,UMSS,Ing Sistemas,final project,Yes,Yes,No,Active
+DEV-30,Carlos,Pinto,Carlos Pinto,cochabamba,08/19/1990,carlos.pinto@gmail.com,Identity card,1254940 CBA,73752125,UMSS,Ing Sistemas,final project,Yes,Yes,No,Active
+DEV-30,Ronal,Choque,Ronal Choque,cochabamba,08/19/1990,ronal.choque@gmail.com,Identity card,1254941 CBA,73752126,UMSS,Ing Sistemas,final project,Yes,Yes,No,Active
+DEV-30,Alejandra,Mori,Alejandra Mori,santa cruz,08/19/1990,amori@gmail.com,Identity card,1254942 CBA,73752142,UGRM,Ing Sistemas,final project,Yes,Yes,No,Active
+DEV-30,Cristal,Perez,Cristal Perez,santa cruz,08/19/1990,cristal.perez@gmail.com,Identity card,1254943 CBA,73752129,UGRM,Ing Sistemas,final project,Yes,Yes,No,Active
+DEV-30,Arni,Flores,Arni Flores,santa cruz,08/19/1990,arni.flores@gmail.com,Identity card,1254944 CBA,73752130,UGRM,Ing Sistemas,final project,Yes,Yes,No,Active
+DEV-30,Ali,Fuentes,Ali Fuentes,santa cruz,08/19/1990,ali.fuentes@gmail.com,Identity card,1254945 CBA,73752131,UGRM,Ing Sistemas,final project,Yes,Yes,No,Active
+DEV-30,Omar,Fuentes,Omar Fuentes,santa cruz,08/19/1990,omar.fuentes@gmail.com,Identity card,1254946 CBA,73752132,UGRM,Ing Sistemas,final project,Yes,Yes,No,Active
+DEV-30,Omar,Channel,Omar Channel,santa cruz,08/19/1990,omar.channel@gmail.com,Identity card,12549347 CBA,73752132,UGRM,Ing Sistemas,final project,Yes,Yes,No,Active
+DEV-30,Sol,Perez,Sol Perez,santa cruz,08/19/1990,sol.perez@gmail.com,Identity card,1254948 CBA,73752133,UGRM,Ing Sistemas,final project,Yes,Yes,No,Active
+DEV-30,Sol,Condori,Sol Condori,santa cruz,08/19/1990,sol.condori@gmail.com,Identity card,1254949 CBA,73752134,UGRM,Ing Sistemas,final project,Yes,Yes,No,Active
+DEV-30,Eliot,Fuentes,Eliot Fuentes,santa cruz,08/19/1990,eliot.fuentes@gmail.com,Identity card,1254950 CBA,73752135,UGRM,Ing Sistemas,final project,Yes,Yes,No,Active
+DEV-30,Rodrigo,Bascope,Rodrigo Bascope,santa cruz,08/19/1990,rodrigo.bascope@gmail.com,Identity card,1254951 CBA,73752136,UGRM,Ing Sistemas,final project,Yes,Yes,No,Active
+DEV-30,Jhenny,Gonzales,Jhenny Gonzales,cochabamba,08/19/1990,jhenny.gonzales@gmail.com,Identity card,45653052 CBA,73752133,UMSS,Ing Sistemas,final project,Yes,Yes,No,Dismissed
+DEV-30,Damian,Guardia,Damian Guardia,cochabamba,08/19/1990,damian.guardia@gmail.com,Identity card,8505123 CBA,73752134,UGRM,Ing Sistemas,final project,Yes,Yes,No,licensed
+DEV-30,Moises,Arandia,Moises Arandia,santa cruz,08/19/1990,moises.arandia@gmail.com,Identity card,8952154 SCZ,73752135,UGRM,Ing Sistemas,final project,Yes,Yes,No,dismissed
+DEV-30,Sebastian,Pereira,Sebastian pereira,la paz,08/19/1990,sebastian.pereira@gmail.com,Identity card,554865 LPZ,78625154,UPBA,Ing Sistemas,final project,Yes,Yes,No,Licensed
+DEV-31,Adan,Franco,Adan Franco,santa cruz,08/19/1990,adan.franco@gmail.com,Identity card,1254952 CBA,73752137,UGRM,Ing Sistemas,final project,Yes,Yes,No,Active
+DEV-31,Rodrigo,Soria,Rodrigo Soria,santa cruz,08/19/1990,rodrigo.soria@gmail.com,Identity card,1254953 CBA,73752138,UGRM,Ing Sistemas,final project,Yes,Yes,No,Active
+DEV-31,Adriana,Aguilar,Adriana Aguilar,santa cruz,08/19/1990,adriana.aguilar@gmail.com,Identity card,1254954 CBA,73752139,UGRM,Ing Sistemas,final project,Yes,Yes,No,Active
+DEV-31,Alejandro,Revollo,Alejandro Revollo,santa cruz,08/19/1990,alejandro.revollo@gmail.com,Identity card,1254955 CBA,73752140,UGRM,Ing Sistemas,final project,Yes,Yes,No,Active
+DEV-31,Amilkar,Cruz,Amilkar Cruz,santa cruz,08/19/1990,amilkar.cruz@gmail.com,Identity card,1254956 CBA,73752141,UGRM,Ing Sistemas,final project,Yes,Yes,No,Active
+DEV-31,Carlos,Perez,Carlos Perez,santa cruz,08/19/1990,carlos.perez@gmail.com,Identity card,1254957 CBA,73752142,UGRM,Ing Sistemas,final project,Yes,Yes,No,Active
+DEV-31,Carla,Guzman,Carla Guzman,santa cruz,08/19/1990,carla.guzman@gmail.com,Identity card,1254958 CBA,73752143,UGRM,Ing Sistemas,final project,Yes,Yes,No,Active
+DEV-31,Diego,Mamani,Diego Mamani,santa cruz,08/19/1990,diego.mamani@gmail.com,Identity card,1254959 CBA,73752144,UGRM,Ing Sistemas,final project,Yes,Yes,No,Active
+DEV-31,Edith,Lopez,Edith Lopez,santa cruz,08/19/1990,edith.lopez@gmail.com,Identity card,1254960 CBA,73752145,UGRM,Ing Sistemas,final project,Yes,Yes,No,dismissed
+DEV-31,Edson,Quispe,Edson Quispe,santa cruz,08/19/1990,edson.quispe@gmail.com,Identity card,1254961 CBA,73752146,UGRM,Ing Sistemas,final project,Yes,Yes,No,LICENSED

@@ -1,0 +1,38 @@
+[
+  {
+    "programaa": {
+      "name22": "DEVINT-30"
+    },
+    "stageds": [
+      {
+        "order": 1,
+        "name": "Introduccion about the program"
+      },
+      {
+        "order": 2,
+        "name": "Technical test about Java"
+      },
+      {
+        "order": 3,
+        "name": "Technical test about SQL"
+      }
+    ]
+  },
+  {
+    "program": "DEVINT-31",
+    "stages": [
+      {
+        "order": 1,
+        "name": "Introduccion about the program"
+      },
+      {
+        "order": 2,
+        "name": "Technical test about Python"
+      },
+      {
+        "order": 3,
+        "name": "Technical test about SQL"
+      }
+    ]
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "program": {
+      "name": "DEV-30",
+      "stages": [
+        {
+          "order": 1,
+          "name": "Introduccion about the program"
+        },
+        {
+          "order": 2,
+          "name": "Technical test about Java"
+        },
+        {
+          "order": 3,
+          "name": "Technical test about SQL"
+        }
+      ]
+    }
+  },
+  {
+    "program": {
+      "name": "DEV-31",
+      "stages": [
+        {
+          "order": 1,
+          "name": "Introduccion about the program"
+        },
+        {
+          "order": 2,
+          "name": "Technical test about Python"
+        },
+        {
+          "order": 3,
+          "name": "Technical test about SQL"
+        }
+      ]
+    }
+  }
+]

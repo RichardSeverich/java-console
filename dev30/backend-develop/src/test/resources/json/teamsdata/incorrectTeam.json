@@ -1,0 +1,38 @@
+[
+  {
+    "Error": {
+      "name": "Staffing"
+    },
+    "usersss": [
+      {
+        "emailsss": "user.test@fundacion-jala.org"
+      },
+      {
+        "email": "user2.test@fundacion-jala.org"
+      }
+    ]
+  },
+  {
+    "team": {
+      "name": "Trainers"
+    },
+    "users": [
+      {
+        "email": "trainer.test@fundacion-jala.org"
+      }
+    ]
+  },
+  {
+    "team": {
+      "name": "Marketing"
+    },
+    "users": [
+      {
+        "email": "marketing1.test@fundacion-jala.org"
+      },
+      {
+        "email": "marketing2.test@fundacion-jala.org"
+      }
+    ]
+  }
+]

@@ -1,0 +1,87 @@
+.container {
+    display: inline;
+    position: relative;
+}
+
+.container:first-child .content {
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    padding-left: 12px;
+    margin-bottom: 1.5em;
+}
+
+.container:first-child .content::before {
+    display: none;
+}
+
+.content {
+    display: block;
+    float: left;
+    width: calc(calc(100% / 12) + 0.2em);
+    height: 1.2em;
+    text-align: center;
+    position: relative;
+    padding: 0.6em 1.6em 0.7em 2.8em;
+    margin: 0 0.2em 0 0;
+    font-size: var(--font-size-s);
+    text-decoration: none;
+    color: var(--color-background);
+    box-shadow: black;
+}
+
+.content::after {
+    content: '';
+    border-top: 1.3em solid transparent;
+    border-bottom: 1.3em solid transparent;
+    border-left: 1.3em solid var(--color-background-hue1);
+    position: absolute;
+    right: -1.2em;
+    top: 0;
+    z-index: 1;
+}
+
+.content::before {
+    content: '';
+    border-top: 1.3em solid transparent;
+    border-bottom: 1.3em solid transparent;
+    border-left: 1.3em solid var(--color-background);
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+.future {
+    background: var(--color-background-hue3);
+}
+
+.future::after {
+    border-left: 1.3em solid var(--color-background-hue3);
+}
+
+.passed {
+    background: var(--color-background-hue1);
+}
+.passed::after {
+    border-left: 1.3em solid var(--color-background-hue1);
+}
+
+.current {
+    background: var(--color-background-hue4);
+}
+
+.current:after {
+    border-left: 1.3em solid var(--color-background-hue4);
+}
+
+.textContainer {
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+
+.container .date {
+    position: absolute;
+    top: 3.5em;
+    left: -10.2em;
+    font-size: x-small;
+}

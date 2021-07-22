@@ -1,0 +1,57 @@
+.candidateDetails {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.candidateImageContainer {
+    padding-top: 1em;
+    padding-bottom: 1em;
+    display: flex;
+    justify-content: center;
+}
+
+.imageProfile {
+    height: 10em;
+    width: 10em;
+    border-radius: 5em;
+}
+
+.detailRow {
+    display: flex;
+    justify-content: space-around;
+}
+
+.candidateInfo {
+    display: flex;
+    flex-flow: column;
+    row-gap: 0.5em;
+}
+
+.lastElement {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
+.detailRowCheckBox {
+    display: flex;
+}
+
+.candidateFormInfo {
+    display: flex;
+    column-gap: 5em;
+    justify-content: center;
+}
+
+.lastCandidateCheckBox {
+    margin-top: 4.2em;
+}
+
+.candidateBasicDetails {
+    display: flex;
+    flex-direction: column;
+}
+
+.candidateName {
+    text-align: center;
+}

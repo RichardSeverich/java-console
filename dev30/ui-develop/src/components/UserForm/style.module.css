@@ -1,0 +1,31 @@
+.wrapper {
+  display: flex;
+  flex-flow: row;
+  align-content: space-around;
+  border: .1em solid var(--color-border);  
+}
+
+.avatar {
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: .1em;
+  margin-right: .1em;
+  padding: .1em;
+}
+
+.element {
+  width: 100%;
+  display: flex;
+  flex-flow: column;
+  align-self: flex-end;
+}
+
+.button {
+  max-height: 1em;
+}
+
+.name {
+  max-height: 1.5em;
+  padding: .2em;
+  overflow: auto;
+}

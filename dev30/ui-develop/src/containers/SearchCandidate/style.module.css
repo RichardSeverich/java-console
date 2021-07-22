@@ -1,0 +1,35 @@
+.candidatesProfileContainer {
+    display: flex;
+}
+
+.candidateDetailsContainer {
+    display: flex;
+    column-gap: 2em;
+    width: 50%;
+}
+
+.candidateDetailsFormContainer {
+    width: 100%;
+}
+.candidateDetailsExtraInformation {
+    display: flex;
+    flex-direction: column;
+    padding: 1em;
+    width: 50%;
+}
+
+.historyContainer {
+    height: 25%;
+}
+  
+.extraDetailsContainer {
+    height: calc(70% / 2);
+}
+
+.innerContainer {
+    height: calc(100% - 4em);
+    overflow-y: auto;
+    width: 100%;
+    padding-right: .5em;
+    font-size: var(--font-size-s);
+}

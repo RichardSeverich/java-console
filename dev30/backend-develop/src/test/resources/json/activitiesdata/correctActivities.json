@@ -1,0 +1,47 @@
+[
+  {
+    "program": {
+      "name": "DEV-30",
+      "stages": [
+        {
+          "name": "Introduccion about the program",
+          "activities": [
+            {
+              "name": "Charla UMSS",
+              "location": "UMSS",
+              "date": "11/20/2020",
+              "time": "8:30",
+              "type": "Group"
+            },
+            {
+              "name": "Charla 1",
+              "location": "Fundacion",
+              "date": "11/21/2020",
+              "time": "14:30",
+              "type": "Group"
+            },
+            {
+              "name": "Visita Colegio Abaroa",
+              "location": "Fundacion",
+              "date": "11/22/2020",
+              "time": "11:00",
+              "type": "Group"
+            }
+          ]
+        },
+        {
+          "name": "Technical test about Java",
+          "activities": [
+            {
+              "name": "Entrevista RRHH",
+              "location": "Fundacion",
+              "date": "12/01/2020",
+              "time": "10:30",
+              "type": "Individual"
+            }
+          ]
+        }
+      ]
+    }
+  }
+]
