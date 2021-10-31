@@ -35,14 +35,13 @@ public class TextFileProcessor {
            }
            int sumScores = 0;
            for (String score: entry.getValue()) {
-               if(score!="F") {
+               if(!score.equals("F")) {
                    sumScores = sumScores + Integer.parseInt(score);
                }
            }
            if(sumScores>120){
                throw new TextFileException(entry.getKey() + " player has extra score");
            }
-
         }
         return scoresMap;
     }
