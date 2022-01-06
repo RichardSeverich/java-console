@@ -1,4 +1,4 @@
-# java only with jsp
+# java EE with Eclipse projects
 
 ## Pre requisites
 
