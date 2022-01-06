@@ -75,7 +75,22 @@
 
 6. Ve al navegador e ingresa a: http://localhost:8080/javaee-normal/
 
-## UI
+## config
+
+1. Cambiar el tamaño de fuente:
+
+Window -> General -> Appearance -> Colors and fonts > java
+
+<p align="center">
+  <img src="documentation/config00.jpg">
+</p>
+
+<p align="center">
+  <img src="documentation/config01.jpg">
+</p>
+
+
+## UI java ee normal project
 
 <p align="center">
   <img src="documentation/02.jpg">
@@ -88,3 +103,4 @@
 <p align="center">
   <img src="documentation/04.jpg">
 </p>
+
