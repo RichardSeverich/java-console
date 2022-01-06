@@ -20,6 +20,30 @@
   <img src="documentation/b.jpg">
 </p>
 
+2. 1 Click en importar proyecto existente 
+
+<p align="center">
+  <img src="documentation/aa.jpg">
+</p>
+
+2. 2 Seleccionar su directorio y los proyectos como se ve en la siguiente imagen.
+
+<p align="center">
+  <img src="documentation/aaa.jpg">
+</p>
+
+2. 3 ir a las propiedades del proyecto
+
+<p align="center">
+  <img src="documentation/aaaa.jpg">
+</p>
+
+2. 4 Verificar que todo este como se muestra en la imagen
+
+<p align="center">
+  <img src="documentation/aaaaa.jpg">
+</p>
+
 3. Añadir un servidor tomcat
 
 <p align="center">
